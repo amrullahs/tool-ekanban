@@ -12,6 +12,7 @@
         "laravel/framework": "^11.31",
         "laravel/tinker": "^2.9",
         "mongodb/laravel-mongodb": "^5.4",
+        "phpseclib/phpseclib": "^3.0",
         "tomatophp/filament-users": "2.*"
     },
     "require-dev": {
